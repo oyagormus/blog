@@ -1,0 +1,45 @@
+.container {
+  max-width: 1200px;
+  font-family: "Playfair Display", serif;
+}
+
+.navbar .nav-link {
+  background-color: #ffffff;
+  font-weight: bold;
+  color: #000003;
+}
+
+.navbar-brand img {
+  margin-right: 10px;
+}
+
+.card {
+  margin-bottom: 20px;
+  font-family: "Abril Fatface", serif;
+  background-color: #f8f9fa;
+}
+
+.card-header {
+  font-family: "Abril Fatface", serif;
+}
+
+footer {
+  background-color: #687179;
+  color: #fff;
+  padding: 20px 0;
+}
+/* navbar arama alanı */
+.navbar .form-control {
+  border-color: #000000;
+}
+
+.navbar .btn-outline-success {
+  color: #01010e;
+}
+.navbar .btn-outline-success {
+  border-color: #000000;
+}
+.container.mt-md-5.mt-3 {
+  max-width: 850px;
+  margin: 0 auto;
+}
